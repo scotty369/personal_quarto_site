@@ -1,9 +1,9 @@
 ---
-title: "Alex Bass"
-image: profile.jpg
-description-meta: data scientist portfolio
+title: "Scott Townsend"
+image: Rand383.jpg
+description-meta: Data Science Portfolio
 twitter-card: 
-  image: profile.jpg
+  image: Rand383.jpg
 comments: false
 about:
   template: trestles
@@ -13,23 +13,20 @@ about:
       href: projects.qmd
     - icon: github
       text: Github
-      href: https://github.com/acbass49
+      href: https://github.com/scotty369
     - icon: envelope
       text: Email
-      href: "mailto:hello@alexbass.me"
+      href: "mailto:stownsend678@gmail.com"
     - icon: linkedin
       text: LinkedIn
-      href: https://www.linkedin.com/in/alex-bass-4a7465161/
-    - icon: twitter-x
-      text: Twitter
-      href: https://twitter.com/acbass49
-    - icon: bar-chart-fill
-      text: Mormon Metrics
-      href: https://mormonmetrics.substack.com
+      href: https://www.linkedin.com/in/scott-townsend-0ab515262/
+    - icon: facebook
+      text: Facebook
+      href: https://www.facebook.com/scott.townsend.1650332
 ---
 
-Hi! My name is Alex Bass. I work as a data science contractor at [Meta](https://about.meta.com) analyzing their marketing data. I am also the creator and maintainer of the open-source [python package `survey_tools`](https://github.com/acbass49/survey_tools).
+Hi there! My name is Scott Townsend, and I'm a senior majoring in Data Science at Brigham Young University - Idaho. Currently, I'm working on my Senior Data Science Project, which has been an exciting and challenging journey.
 
-After [grad school](https://datascience.virginia.edu/), I found a lot more free time for personal projects. So, I created this website for a place to share [projects](projects.qmd) or write up [random thoughts and analyses](blog.qmd).
+Through this blog, I’ll be sharing updates on my project as I progress, along with insights, findings, and any hurdles I encounter along the way. I'll also showcase other data science projects I’ve completed, as well as those I'm actively working on, ranging from statistical analyses to machine learning applications.
 
-Please contact me at [hello@alexbass.me](mailto:hello@alexbass.me). Would love to connect about anything data, potential collaborations, or just to shoot the breeze 🍃
+Stay tuned for a deep dive into the world of data science, as I explore innovative ways to analyze, visualize, and interpret data!
