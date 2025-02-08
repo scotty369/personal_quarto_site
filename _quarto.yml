@@ -7,7 +7,7 @@ website:
   page-navigation: true
   comments: 
     giscus: 
-      repo: acbass49/personal_quarto_site
+      repo: scotty369/personal_quarto_site
       reactions-enabled: true
       input-position: bottom
   navbar:
@@ -24,7 +24,7 @@ website:
     logo: graph-up.svg
   favicon: graph-up.svg
   twitter-card:
-    creator: "@acbass49"
+    creator: "@scotty359"
   page-footer:
     center: 
       - text: "About Me"
@@ -35,7 +35,7 @@ website:
         href: projects/survey_tools/index.qmd
     right: 
       - text: "Made with Quarto & Netlify ❤️"
-  site-url: "https://alexbass.me"
+  site-url: "https://scotty369.netlify.app/"
   body-header: |
     <!-- 100% privacy-first analytics -->
     <script async defer src="https://scripts.simpleanalyticscdn.com/latest.js"></script>
